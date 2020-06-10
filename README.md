@@ -1,6 +1,6 @@
 # Runner
 
-Runner - gracz musi omijać przeszkody które się generują. Gracz porusza się za pomocą swipa. Trzeba również uważać aby pasek balasnu był się nie wypełnił.
+Runner - gracz musi omijać przeszkody które się generują oraz zbierać punkty. Gracz porusza się za pomocą swipa. Trzeba również uważać aby pasek balasnu się nie wypełnił.
 
 
 <div>
